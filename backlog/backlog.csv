@@ -1,0 +1,11 @@
+ID,Titre,Description,Priorité,Story Points,Statut,Sprint,Journal
+US-01,Ajouter une séance de sport,"En tant qu'étudiant, je veux enregistrer une séance de sport, afin de garder une trace de mon activité physique quotidienne.",Haute,3,À faire,Sprint 1,Sport
+US-02,Renseigner l'intensité d'un effort sportif,"En tant qu'étudiant, je veux noter l'intensité de ma séance sur une échelle de 1 à 5, afin de distinguer les entraînements légers des entraînements intensifs.",Moyenne,1,À faire,Sprint 1,Sport
+US-03,Ajouter un commentaire facultatif à une séance,"En tant qu'étudiant, je veux pouvoir ajouter un commentaire libre à une séance de sport, afin de noter un contexte particulier (blessure, météo, fatigue...).",Basse,1,À faire,Sprint 1,Sport
+US-04,Enregistrer un repas,"En tant qu'étudiant, je veux saisir un repas avec sa date, son moment et sa catégorie, afin de suivre la qualité de mon alimentation au quotidien.",Haute,3,À faire,Sprint 1,Nutrition
+US-05,Catégoriser la qualité d'un repas,"En tant qu'étudiant, je veux classer mon repas selon trois catégories prédéfinies, afin de prendre conscience rapidement de mes habitudes alimentaires.",Moyenne,1,À faire,Sprint 1,Nutrition
+US-06,Enregistrer mon sommeil,"En tant qu'étudiant, je veux noter le nombre d'heures de sommeil de la nuit précédente, afin de suivre l'évolution de ma qualité de récupération.",Haute,2,À faire,Sprint 1,Bien-être
+US-07,Suivre mon hydratation,"En tant qu'étudiant, je veux indiquer combien de verres d'eau j'ai bus dans la journée, afin de vérifier si je m'hydrate suffisamment.",Moyenne,1,À faire,Sprint 1,Bien-être
+US-08,Enregistrer mon humeur du jour,"En tant qu'étudiant, je veux évaluer mon humeur sur une échelle de 1 à 5, afin de suivre mon état émotionnel dans le temps.",Moyenne,1,À faire,Sprint 1,Bien-être
+US-09,Consulter la liste de mes entrées,"En tant qu'étudiant, je veux voir la liste de toutes mes entrées (sport, nutrition, bien-être), afin d'avoir une vue d'ensemble de mes habitudes enregistrées.",Haute,2,À faire,Sprint 1,Consultation
+US-10,Filtrer les entrées par date,"En tant qu'étudiant, je veux filtrer mes entrées par date, afin de retrouver rapidement ce que j'ai enregistré un jour précis.",Haute,2,À faire,Sprint 1,Consultation
